@@ -1,4 +1,5 @@
-#!/bin/bash 
-         while true; do
-             echo wer1 - nginx:1.16.1
-         done
+#!/bin/bash
+while :
+do
+	echo "lab10a"
+done
