@@ -1,5 +1,5 @@
 #!/bin/bash
 while :
 do
-	echo "lab10a"
+echo "lab10a"
 done
